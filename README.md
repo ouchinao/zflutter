@@ -2,7 +2,7 @@
 
 
 # Zflutter
-
+- バージョン関係でのバグを修正して扱っているので、こちらにリポジトリ移して使用しています。
 <a  href="https://z.flutter.gallery/"><img align="right"  height="250px" src="https://github.com/jamesblasco/zflutter/blob/master/docs/assets/images/ui3d.gif?raw"/></a> 
 
 <a  href="https://pub.dev/packages/zflutter"><img  class="shield-button"  src="https://img.shields.io/pub/v/zflutter.svg?logo=flutter&color=blue&style=for-the-badge" /></a>
